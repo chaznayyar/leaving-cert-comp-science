@@ -1,0 +1,11 @@
+startingamount=float(input('The starting amount is'))
+print(startingamount*0.05,'is taken by interest rate')
+time=int(input('the amount of time is:'))
+print('total interest=',(startingamount*0.05)*time)
+print('total amount=',(startingamount)-(startingamount*0.05)*time)
+
+startingamount2=float(input('the starting amount is'))
+print(startingamount*0.05,'is taken by interest rate')
+time2=int(input('The amount of time is:'))
+print('total interest is',(startingamount2)*(0.05+1)*time2)
+print('total amount is',(startingamount2)+(startingamount2*1.05)*time2)

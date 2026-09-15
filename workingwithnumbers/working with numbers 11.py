@@ -1,0 +1,6 @@
+no1=float(input('This is the first mark'))
+no2=float(input('This is the second mark'))
+no3=float(input('This is the third mark'))
+no4=float(input('This is the fourth mark'))
+no5=float(input('This is the fifth mark'))
+print((no1+no2+no3+no4+no5)/5,)
