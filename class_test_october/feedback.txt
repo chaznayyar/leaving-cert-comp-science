@@ -1,0 +1,13 @@
+Question 1 - A good start but you needed to write up all the comparison operators
+
+Question 2 - great
+
+Question 3 - You need to learn this off. It is important. Look at the file Operators in Python - Housekeeping.pdf
+
+Question 4 - great
+
+Question 5 - great
+
+Question 6 - Can you try and fix this so the output is as expected
+
+Question 7 - Can you do this
