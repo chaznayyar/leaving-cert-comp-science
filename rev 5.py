@@ -1,0 +1,6 @@
+name=('ben')
+surname=('dover')
+age=str(16)
+eircode=('N25OHIO89')
+print('hello',name,surname,'u are',age,'and ur eircode is',eircode,)
+print(f"{name}")

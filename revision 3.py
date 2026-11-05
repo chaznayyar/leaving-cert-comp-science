@@ -1,0 +1,6 @@
+name=('john')
+print(name)
+b=float(256)
+print(b)
+c=float(127.98)
+print(c)
